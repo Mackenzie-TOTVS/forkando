@@ -167,6 +167,8 @@ O método `fetch` utilizado neste projeto demonstra a funcionalidade de fazer re
 
 Veja abaixo uma captura de tela do projeto em funcionamento:
 
+![image](https://github.com/user-attachments/assets/00defc04-fc60-4086-81db-473d862bba6d)
+
 ![Exemplo de Projeto](./arquivo.png)
 
 A imagem acima mostra como o projeto aparece após a requisição ser concluída com sucesso.
